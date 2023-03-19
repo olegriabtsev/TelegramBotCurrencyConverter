@@ -49,7 +49,7 @@ Currently, it supports 4 commands as below:
 * `/start` - Greets a user
 * `/help` - Prints all available information with supported commands with a short description
 * `/currencies` - Prints a list of supported currencies
-* `/convert` - Starts converting currencies from based on chosen currency
+* `/convert` - Starts converting currencies based on chosen currency
 
 ## Examples
 
